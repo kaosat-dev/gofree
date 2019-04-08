@@ -1,0 +1,19 @@
+{
+  "name": "gofree",
+  "version": "0.0.1",
+  "description": "Printable keyboard glove !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "printable",
+    "glove",
+    "gofree",
+    "jscad",
+    "parametric",
+    "3dprinting"
+  ],
+  "author": "Mark 'kaosat-dev' Moissette",
+  "license": "MIT"
+}

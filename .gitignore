@@ -1,0 +1,8 @@
+node_modules/
+references
+.DS_Store
+.nyc_output
+.vscode
+*.log
+package-lock.json
+
