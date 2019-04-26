@@ -21,7 +21,7 @@ This package can currently only be used in the new version of JSCAD web V2 (writ
     * install the web ui for JSCAD V2 (V2 branch)
     * go to jscad.xyz
 
-- drag & drop this folder onto the JSCAD UI
+- drag & drop the folder containing a design (in this case on of the folders [here]('./cad/') ) onto the JSCAD UI
 
 ## License
 
